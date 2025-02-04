@@ -7,7 +7,7 @@ module.exports = defineConfig({
     },
     env: {
       EMAIL: 'agarwalshipra19.10@gmail.com',
-      PASSWORD: 'Qazxsw@123',
+      PASSWORD: 'Qazxsw@1234',
       BASE_URL: 'https://scopex.money/'
     },
     reporter: 'mochawesome', // Add mochawesome reporter
